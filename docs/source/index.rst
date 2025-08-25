@@ -5,7 +5,9 @@ LAFVIN ESP32-Breakout Board
    :maxdepth: 2
 
    about this kit
-   Assembly/board Assembly
+   Assembly
+   Burning_firmware
+   Control ESP32 Animated Eyes
+   The creation of a GIF animation
    Appendix/arduino ide
-   Upload Code/upload Code
-   pinout
+   ESP32-DEVKI-V1
