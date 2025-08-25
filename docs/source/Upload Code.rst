@@ -3,7 +3,10 @@
 Upload Code
 ==========================
 
-Download the code by clicking this link: `Download Code <https://github.com/lafvintech/ESP32_Animated_Eyes.git/main>`_
+Download the code by clicking this link: `Download Code <https://codeload.github.com/lafvintech/ESP32_Animated_Eyest/zip/refs/heads/main>`_
+   
+The downloaded compressed package contains code, flash_download_tool, and driver installation.
+
 
 1. Start Arduino IDE  
    Open the sketch:  
