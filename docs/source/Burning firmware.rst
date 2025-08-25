@@ -63,10 +63,9 @@ Download Panel
 
    .. image:: /Tutorial/img/烧录2.png  
 
-Download  the  sample
-^^^^^^^^^^^^^
+
 ESP32 Download Guide
-====================
+^^^^^^^^^^^^^
 
 1. Launch the download utility  
    • **ChipType**  → ``ESP32``  
