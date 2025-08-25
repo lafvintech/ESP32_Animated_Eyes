@@ -3,6 +3,8 @@
 Upload Code
 ==========================
 
+Download the code by clicking this link: `Download Code <https://github.com/lafvintech/ESP32_Animated_Eyes.git/main>`_
+
 1. Start Arduino IDE  
    Open the sketch:  
    **File → Open… → ESP32_Animated_Eyes > Code > Animated_Eyes_2_new.ino**
