@@ -1,6 +1,6 @@
 .. __Upload Code:
 
-Upload Code – Step-by-Step
+Upload Code
 ==========================
 
 1. Start Arduino IDE  
