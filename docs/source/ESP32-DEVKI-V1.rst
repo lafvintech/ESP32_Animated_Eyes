@@ -1,6 +1,6 @@
 .. __ESP32-DEVKI-V1:
 
-Pinout
+ESP32-DEVKI-V1
 ====================
 
 .. role:: red

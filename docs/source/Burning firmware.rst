@@ -1,1 +1,4 @@
-.. __Burning_firmware:
+.. __Burning firmware:
+
+Burning firmware
+====================
