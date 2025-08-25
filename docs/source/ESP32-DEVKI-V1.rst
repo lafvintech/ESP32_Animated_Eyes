@@ -3,10 +3,8 @@
 ESP32-DEVKI-V1
 ====================
 
-.. role:: red
-   :class: red
-
-:red:`ESP32 DEVKIT_V1_Board`
--------------------------------
-
    .. image:: /Tutorial/img/ESP32_引脚.png
+
+   .. image:: /Tutorial/img/LA065_A5_V2.jpg
+
+   .. image:: /Tutorial/img/V1.png

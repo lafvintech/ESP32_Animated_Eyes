@@ -17,14 +17,6 @@ ESP32 Animated Eyes:
    :align: center
    :width: 80%
 
-Wiring   
--------------------------------
-
-.. figure:: ./Tutorial/img/区域功能.jpg
-   :align: center
-   :width: 70%
-
-
 Componen List
 -------------------------------
 
