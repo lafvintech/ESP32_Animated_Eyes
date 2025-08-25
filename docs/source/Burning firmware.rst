@@ -64,7 +64,7 @@ Download Panel
    .. image:: /Tutorial/img/烧录2.png  
 
 
-ESP32 Download Guide
+Download  the  sample
 ^^^^^^^^^^^^^
 
 1. Launch the download utility  
