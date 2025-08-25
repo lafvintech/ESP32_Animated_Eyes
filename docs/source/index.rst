@@ -6,6 +6,7 @@ LAFVIN ESP32 Animated Eyes
 
    about this kit
    Assembly
+   lnstall drivers windows
    Burning firmware
    Control ESP32 Animated Eyes
    The creation of a GIF animation
