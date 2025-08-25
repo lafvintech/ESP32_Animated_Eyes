@@ -1,4 +1,4 @@
-LAFVIN ESP32-Breakout Board 
+LAFVIN ESP32 Animated Eyes 
 ========================================
 
 .. toctree::
@@ -6,7 +6,7 @@ LAFVIN ESP32-Breakout Board
 
    about this kit
    Assembly
-   Burning_firmware
+   Burning firmware
    Control ESP32 Animated Eyes
    The creation of a GIF animation
    Appendix/arduino ide
