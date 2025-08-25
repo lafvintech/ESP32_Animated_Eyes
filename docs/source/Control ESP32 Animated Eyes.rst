@@ -11,7 +11,6 @@ ESP32_animation_eye – Features
    .. image:: /Tutorial/img/LA065_A7.jpg  
 
 Mode Selection (Top-Right Toggle Switch)
-^^^^^^^^^^^^^
 
    .. image:: /Tutorial/img/LA065_A2.jpg  
 
