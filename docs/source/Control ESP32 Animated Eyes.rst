@@ -6,12 +6,12 @@ Control ESP32 Animated Eyes
 Connect the USB power. When the red LED on the ESP32_Animated Eyes board lights up, it indicates that it is available. If it does not light up,  please try reconnecting.
 
 ESP32_animation_eye – Features
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
    .. image:: /Tutorial/img/LA065_A7.jpg  
 
 Mode Selection (Top-Right Toggle Switch)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
    .. image:: /Tutorial/img/LA065_A2.jpg  
 
