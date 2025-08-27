@@ -76,15 +76,15 @@ Installing ESP32 Add-on in Arduino IDE
 ①Search for esp32 and select 1.0.6 click the INSTALL button for esp32 by 
 Espressif Systems.
 
-   .. image:: /Tutorial/img/ESP106.png
+   .. image:: /Tutorial/img/3.3.0.1.png
 
 ②Installing,this will take a while
 
-   .. image:: /Tutorial/img/ESP1062.png
+   .. image:: /Tutorial/img/3.3.0.2.png
 
 ③Successfully installed platform esp32: 1.0.6
 
-   .. image:: /Tutorial/img/ESP1063.png
+   .. image:: /Tutorial/img/3.3.0.3.png
 
 Import library function file
 --------------
