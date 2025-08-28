@@ -99,6 +99,10 @@ How to Install a Libraries
 Libraries are often distributed as a ZIP file or folder. The name of the folder is the name of the library. Inside the folder will be a .cpp file, a .h file and often a keywords.txt file, examples folder, and other files required by the library. you can install   3rd party libraries in the IDE. Do not unzip the downloaded library, leave it as is.
 In the Arduino IDE, navigate to Sketch > Include Library. At the top of the drop down list, select the option to "Add .ZIP Library''.
 
+The file contains two libraries. Please import them into the Arduino IDE in the same manner. The two library files that need to be imported have already been saved in the folder we provided in ZIP format.
+
+Download the Libraries by clicking this link: `Download Code <https://codeload.github.com/lafvintech/ESP32_Animated_Eyes/zip/refs/heads/main>`_
+
    .. image:: /Tutorial/img/L1.png
 You will be prompted to select the library you would like to add. Navigate to the .zip file's  location and open it
 
