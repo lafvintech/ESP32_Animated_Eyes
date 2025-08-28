@@ -6,8 +6,7 @@ About_this_kit
 Preface
 -------------------------------
 
-Before we understand the ESP32 Animated Eyes,we need to first understand it.The following figure is a schematic diagram of the 
-ESP32 Animated Eyes:
+We first need to understand what an ESP32-Animated Eyes is. The illustration below shows an ESP32-Animated Eyes.
 
 .. figure:: ./Tutorial/img/LA065_A10.jpg
    :align: center
