@@ -50,4 +50,4 @@ DEMO VIDEO
 
 .. raw:: html
    
-   <iframe width="1897" height="785" src="https://www.youtube.com/embed/XixVymz1BHo" title="ESP32 Animoted Eyes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/XixVymz1BHo" title="ESP32 Animoted Eyes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
