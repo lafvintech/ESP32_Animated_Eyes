@@ -115,7 +115,7 @@ You will be prompted to select the library you would like to add. Navigate to th
 
    .. image:: /Tutorial/img/L3.png
 
-.. warning:: The file contains two libraries. Please import them into the Arduino IDE in the same manner.
+.. warning:: The file contains two libraries(TFT_eSPI.zip and AnimatedGIF-master.zip). Please import them into the Arduino IDE in the same manner.
 
 
    .. image:: /Tutorial/img/GIF1.png
