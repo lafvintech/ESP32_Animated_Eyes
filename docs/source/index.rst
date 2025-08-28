@@ -8,7 +8,7 @@ LAFVIN ESP32 Animated Eyes
    Assembly
    lnstall drivers windows
    Burning firmware
-   The creation of a GIF animation
+   GIF animation
    Appendix/arduino ide
    Upload Code
    Control ESP32 Animated Eyes
