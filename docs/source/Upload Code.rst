@@ -10,7 +10,7 @@ The downloaded compressed package contains code, flash_download_tool, and driver
 
 1. Start Arduino IDE  
    Open the sketch:  
-   **File → Open… → ESP32_Animated_Eyes > Code > Animated_Eyes_2_new.ino**
+   **File → Open… → ESP32_Animated_Eyes > Code > ESP32_Animated_Eyes**
 
    .. image:: /Tutorial/img/图片1.png
    .. image:: /Tutorial/img/图片2.png
